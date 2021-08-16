@@ -1,3 +1,6 @@
+/* 4. Write a C program to read 20 whole numbers and sort then in ascending order and print the contents
+of the array.  */
+
 #include<stdio.h>
 
 main()
