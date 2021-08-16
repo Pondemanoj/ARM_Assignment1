@@ -1,3 +1,6 @@
+/*  3. Write a C program to read 20 whole numbers into an array and count the number of even numbers
+in the array */
+
 #include<stdio.h>
 
 main()
