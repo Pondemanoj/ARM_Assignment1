@@ -1,3 +1,6 @@
+/* 2. Write a C Program to read the 15 whole numbers into an array implement the algo to find the largest
+in the array */
+
 #include<stdio.h>
 
 main()
